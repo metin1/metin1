@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋, I'm Metin
+### Hi 👋, I'm Metin
 #### A passionate full stack web developer from Turkey
 3+ years experienced Full Stack Developer possessing demonstrated acumen in full-stack development including software development, website development, cloud-based servers, payment integration, API integration, etc. Hands-on experience in designing, developing, and maintaining websites. Adept at understanding clients' requirements and delivering projects accordingly. Highly skilled at collaborating with team members to deliver effective results within deadlines.
 
