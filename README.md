@@ -4,8 +4,8 @@
 
 Skills: REACT / NEXT.JS / NODE / JS-TS / HTML / CSS
 
-- 🌱 I’m currently learning Pyhton, Graphql,  
-- 💬 Ask me about React, Next.Js, Node.js, MongoDb 
+- 🌱 I’m currently learning Java, Vue.js, Gatling performance test tool,  
+- 💬 Ask me about React, Next.Js, Node.js, MongoDb, Cypress, Testing Library
 - 📫 How to reach me: mtnscn@gmail.com 
 
 
