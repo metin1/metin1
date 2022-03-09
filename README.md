@@ -1,10 +1,10 @@
 ### Hi 👋, I'm Metin
 #### A passionate full stack web developer from Turkey
-3+ years experienced Full Stack Developer possessing demonstrated acumen in full-stack development including software development, website development, cloud-based servers, payment integration, API integration, etc. Hands-on experience in designing, developing, and maintaining websites. Adept at understanding clients' requirements and delivering projects accordingly. Highly skilled at collaborating with team members to deliver effective results within deadlines.
+4 years experienced Full Stack/Frontend Developer possessing demonstrated acumen in full-stack development including software development, website development, cloud-based servers, payment integration, API integration, etc. Hands-on experience in designing, developing, and maintaining websites. Adept at understanding clients' requirements and delivering projects accordingly. Highly skilled at collaborating with team members to deliver effective results within deadlines.
 
-Skills: REACT / NEXT.JS / NODE / JS-TS / HTML / CSS
+Skills: REACT / TYPESCRIPT /NEXT.JS / VUE/ NODE / EXPRESS / HTML / CSS
 
-- 🌱 I’m currently learning Java, Vue.js, Gatling performance test tool,  
+- 🌱 I’m currently learning Jenkins, Java,  
 - 💬 Ask me about React, Next.Js, Node.js, MongoDb, Cypress, Testing Library
 - 📫 How to reach me: mtnscn@gmail.com 
 
