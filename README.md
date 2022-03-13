@@ -17,5 +17,5 @@ Skills: REACT / TYPESCRIPT /NEXT.JS / VUE/ NODE / EXPRESS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/metin1)  
 
-![Metin's GitHub stats](https://github-readme-stats.vercel.app/api?username=metin1&count_private=true))
+![Metin's GitHub stats](https://github-readme-stats.vercel.app/api?username=metin1&count_private=true)
 
