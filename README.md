@@ -16,3 +16,5 @@ Skills: REACT / TYPESCRIPT /NEXT.JS / VUE/ NODE / EXPRESS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metin1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/metin1)  
+
+[![Metin's GitHub stats](https://github-readme-stats.vercel.app/api?username=metin1)](https://github.com/metin1/github-readme-stats)
