@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=1371DF92&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Metin;Welcome+to+my+Github+page;I+am+a+full+stack+developer)](https://git.io/typing-svg)
-### Hi 👋, I'm Metin
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=0FD6FF&center=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Metin;Welcome+to+my+Github+page;I+am+a+full+stack+developer)](https://git.io/typing-svg)
 #### A passionate full stack web developer from Turkey
 4 years experienced Full Stack/Frontend Developer possessing demonstrated acumen in full-stack development including software development, website development, cloud-based servers, payment integration, API integration, etc. Hands-on experience in designing, developing, and maintaining websites. Adept at understanding clients' requirements and delivering projects accordingly. Highly skilled at collaborating with team members to deliver effective results within deadlines.
 
