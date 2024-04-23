@@ -38,4 +38,3 @@ I am a skilled full stack developer with significant experience in both frontend
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metin1)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/metin1)
